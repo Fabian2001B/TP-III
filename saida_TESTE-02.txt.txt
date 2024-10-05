@@ -1,0 +1,5 @@
+Bits Dado no Bloco: 5
+Bits Conjunto: 0
+Bits Tag: 21
+Misses: 21
+Hits: 115
